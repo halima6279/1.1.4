@@ -1,0 +1,11 @@
+
+W
+java:S1118	":Add a private constructor to hide the implicit public one.(×¼­Æ8¢Ç³»”2
+~
+java:S6437"6Revoke and change this password, as it is compromised.(¦ÀËëùÿÿÿÿ8Ğã·”2J$92a2e0f7-4c62-45c3-83f9-4e86c51fa618
+m	java:S106"+Replace this use of System.out by a logger.(ÓäØ†8Ğã·”2J$bac1146c-8385-407a-81c4-340af9226ace
+m	java:S106"+Replace this use of System.out by a logger.(÷Ø×’8Óã·”2J$85b325d7-65ab-46d1-a005-9735fdbe9b85
+w
+java:S1128"5Remove this unused import 'javax.persistence.Column'.(ìûæH8Ôã·”2J$5bed7aa1-fe00-46e4-b313-2ebeec72d54b
+r
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8Õã·”2J$3773af54-11b1-4176-9dae-9de70900922d

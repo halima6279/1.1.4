@@ -1,0 +1,13 @@
+
+‹
+java:S1192"HDefine a constant instead of duplicating this literal "Voronin" 3 times.(—¸×Ø8Ÿõí»”2J$a38dfdea-3fce-496a-9fd3-71839a4eee8e
+¼
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(¶¹åÇ8ÚÍ ¼”2J$6d787ea5-8f7e-4773-8009-ffb249579048
+g
+java:S2440"$Remove this instantiation of "Util".(ïÉ“ô8Ã¢Ÿ¼”2J$2c8411f8-798d-4526-82d2-e9d51f1e6d94
+}
+java:S2209"5Change this instance-reference to a static reference.(°ÿ‚Îûÿÿÿÿ8Î¢Ÿ¼”2J$7c547821-a076-410b-aa93-5554b0792ee2
+‚
+java:S1128":Remove this unused import 'jm.task.core.jdbc.dao.UserDao'.(½ÛÃøÿÿÿÿ8é¥¼”2J$95b08886-7616-4784-b87c-dccf484d23e7
+Š
+java:S1128"BRemove this unused import 'jm.task.core.jdbc.dao.UserDaoJDBCImpl'.(äšÉàøÿÿÿÿ8é¥¼”2J$481d14a9-b1bb-449d-983c-767e24624786

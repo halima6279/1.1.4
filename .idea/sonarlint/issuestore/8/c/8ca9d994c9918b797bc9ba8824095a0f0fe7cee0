@@ -1,0 +1,19 @@
+
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ½†š8‰Æ€¼”2J$6e481ef0-05ab-40ef-a0e8-52912040fddd
+l	java:S106"+Replace this use of System.out by a logger.(¸½²8Ëö»”2J$0b172db2-7b57-449d-b16c-e29d1e66bfa3
+r	java:S106!"+Replace this use of System.out by a logger.(Ü¬¦¨üÿÿÿÿ8Òö»”2J$af26f03a-d0f0-4a66-b75a-26a04496359f
+r	java:S106+"+Replace this use of System.out by a logger.(îüÑºÿÿÿÿÿ8×ö»”2J$3fbd12ee-3405-4464-8b37-b10cc9266699
+r	java:S106."+Replace this use of System.out by a logger.(ÀşÅ§ıÿÿÿÿ8§Æ€¼”2J$e4fa7d43-4f22-4624-987b-c1a23f7ef81a
+m	java:S106I"+Replace this use of System.out by a logger.(…óÓì8°Æ€¼”2J$701a658a-2cd7-4147-8d4c-c3d6a76d4d93
+m	java:S106K"+Replace this use of System.out by a logger.(í†Éß8±Æ€¼”2J$8e426506-f67f-4dba-b62f-50ff6c03432e
+m	java:S106O"+Replace this use of System.out by a logger.(»ˆÚÅ8¶Æ€¼”2J$37d5c7db-2c2b-4101-980e-7c8db51494aa
+g
+java:S6905U"Don't use the query "SELECT *".(ƒÊğÖûÿÿÿÿ8ŞÏ†¼”2J$59b199ae-c0c6-4fa4-8787-24693a7d92be
+y
+java:S1481n"1Remove this unused "rowsAffected" local variable.(ùíä¬úÿÿÿÿ8­Ç€¼”2J$bac0270b-b8c1-4ccd-95d3-f5cdfcf47eec
+m	java:S106p"+Replace this use of System.out by a logger.(ÒŒœÓ8¯Ç€¼”2J$73af93ef-c09d-4f2f-ad27-a0646e3e997c
+r	java:S106s"+Replace this use of System.out by a logger.(şÓÈ¾ıÿÿÿÿ8°Ç€¼”2J$6e41e67b-6c96-4a0a-8fd7-41af881c702e
+„
+java:S1128
+"ARemove this unused import 'java.sql.DriverManager.getConnection'.(£¶ÖŠ8¹¦Å½”2J$e49d3bc9-a3b6-4007-bc6c-d0a5e6db65d6
