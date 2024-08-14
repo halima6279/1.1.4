@@ -1,19 +1,19 @@
 
-l	java:S106"+Replace this use of System.out by a logger.(¸½²8Ëö»”2J$3d0adec4-c433-4be5-8691-6e3291e5f840
 Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ½†š8‰Æ€¼”2J$eea3da54-9d7f-49a1-8c3e-b0de4ec0f836
-r	java:S106!"+Replace this use of System.out by a logger.(Ü¬¦¨üÿÿÿÿ8Òö»”2J$7d3c77dd-c09d-4c40-b5f6-d94744c8dafc
-r	java:S106+"+Replace this use of System.out by a logger.(îüÑºÿÿÿÿÿ8×ö»”2J$3d0199f6-a1ff-4409-b3cb-db0f1e910fd4
-r	java:S106."+Replace this use of System.out by a logger.(ÀşÅ§ıÿÿÿÿ8§Æ€¼”2J$cebe5250-df5e-4c6c-bdc3-585f71b008d5
-m	java:S106I"+Replace this use of System.out by a logger.(…óÓì8°Æ€¼”2J$9475d77b-2bcf-4f76-b01d-c15c1060c72d
-m	java:S106K"+Replace this use of System.out by a logger.(í†Éß8±Æ€¼”2J$5d348fd8-dc1f-461d-8cbf-2b032300a58b
-m	java:S106O"+Replace this use of System.out by a logger.(»ˆÚÅ8¶Æ€¼”2J$68a8e7c9-0a4a-4fa0-9229-d4fb26adc634
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ½†š8‰Æ€¼”2J$1457dbdb-e9e3-49a4-8fe3-7f63d1af0c8b
+l	java:S106"+Replace this use of System.out by a logger.(¸½²8Ëö»”2J$c5f1d60c-36ac-4381-89e9-f09f55002978
+r	java:S106!"+Replace this use of System.out by a logger.(Ü¬¦¨üÿÿÿÿ8Òö»”2J$9c3301bd-f131-4d6e-8a1c-41e97b417074
+r	java:S106+"+Replace this use of System.out by a logger.(îüÑºÿÿÿÿÿ8×ö»”2J$2ac3be02-e170-4809-92c3-5fc7693dbf79
+r	java:S106."+Replace this use of System.out by a logger.(ÀşÅ§ıÿÿÿÿ8§Æ€¼”2J$dee75729-2d8c-461a-b02f-cf70c76ccbe9
+m	java:S106I"+Replace this use of System.out by a logger.(…óÓì8°Æ€¼”2J$35d89278-6eb4-48d2-91e9-2dfeabae02ff
+m	java:S106K"+Replace this use of System.out by a logger.(í†Éß8±Æ€¼”2J$b589c140-cc67-4241-884e-124efa55477e
+m	java:S106O"+Replace this use of System.out by a logger.(»ˆÚÅ8¶Æ€¼”2J$538937ec-9a76-45de-a212-3e8ddccce632
 g
-java:S6905U"Don't use the query "SELECT *".(ƒÊğÖûÿÿÿÿ8ŞÏ†¼”2J$79742c4a-1aba-4fd1-b435-6d976d1b9186
+java:S6905U"Don't use the query "SELECT *".(ƒÊğÖûÿÿÿÿ8ŞÏ†¼”2J$ac4996ea-879e-4004-b4cd-e287389bedc9
 y
-java:S1481n"1Remove this unused "rowsAffected" local variable.(ùíä¬úÿÿÿÿ8­Ç€¼”2J$528311c5-c62f-4e46-a4ff-33a60e05da1a
-m	java:S106p"+Replace this use of System.out by a logger.(ÒŒœÓ8¯Ç€¼”2J$686a3653-6a2f-493c-88c0-9e6dd16598fc
-r	java:S106s"+Replace this use of System.out by a logger.(şÓÈ¾ıÿÿÿÿ8°Ç€¼”2J$d4890007-055d-4f9f-b47e-93b043b4d6fa
+java:S1481n"1Remove this unused "rowsAffected" local variable.(ùíä¬úÿÿÿÿ8­Ç€¼”2J$191dafcc-238b-4aad-b2c9-14d12cbf770a
+m	java:S106p"+Replace this use of System.out by a logger.(ÒŒœÓ8¯Ç€¼”2J$70445821-0af5-4955-a72c-c16f49f67655
+r	java:S106s"+Replace this use of System.out by a logger.(şÓÈ¾ıÿÿÿÿ8°Ç€¼”2J$e162c087-9d85-4522-8096-5a74c0b1ae5e
 „
 java:S1128
-"ARemove this unused import 'java.sql.DriverManager.getConnection'.(£¶ÖŠ8¹¦Å½”2J$a88e057e-96ee-442f-a2e7-5225cba469ca
+"ARemove this unused import 'java.sql.DriverManager.getConnection'.(£¶ÖŠ8¹¦Å½”2J$017750c5-533f-4ac9-903b-4718c30136e3

@@ -1,11 +1,26 @@
 
-W
-java:S1118	":Add a private constructor to hide the implicit public one.(×¼­Æ8¢Ç³»”2
+}
+java:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ8º¢æ•2J$e882e782-7277-4144-8117-4dec1e3a7b66
 ~
-java:S6437"6Revoke and change this password, as it is compromised.(¦ÀËëùÿÿÿÿ8Ğã·”2J$92a2e0f7-4c62-45c3-83f9-4e86c51fa618
-m	java:S106"+Replace this use of System.out by a logger.(ÓäØ†8Ğã·”2J$bac1146c-8385-407a-81c4-340af9226ace
-m	java:S106"+Replace this use of System.out by a logger.(÷Ø×’8Óã·”2J$85b325d7-65ab-46d1-a005-9735fdbe9b85
-w
-java:S1128"5Remove this unused import 'javax.persistence.Column'.(ìûæH8Ôã·”2J$5bed7aa1-fe00-46e4-b313-2ebeec72d54b
-r
-java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8Õã·”2J$3773af54-11b1-4176-9dae-9de70900922d
+java:S6437"6Revoke and change this password, as it is compromised.(¦ÀËëùÿÿÿÿ8Ó¢æ•2J$8084e77b-ec1b-46c4-bb24-bf51d64fd24f
+m	java:S106"+Replace this use of System.out by a logger.(ÓäØ†8Ö¢æ•2J$82f5f3f9-420e-4e24-80b6-a8a290e8726a
+m	java:S106"+Replace this use of System.out by a logger.(÷Ø×’8ã¢æ•2J$ac5daa6f-e2cd-41fe-b3eb-04962d79fd47
+’
+java:S3252+"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(·¯“¿úÿÿÿÿ8¾£æ•2J$ea3bbbd7-e382-46f6-ad17-7f679057a081
+
+java:S3252,"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(ÚÄîĞúÿÿÿÿ8Á£æ•2J$1f1f8301-46fb-48f6-8044-99f5f451ca0f
+‹
+java:S3252-"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(¨Ò“Ç8±”“•2J$9dd96f6b-007c-4ea9-a591-f03b743de039
+‹
+java:S3252."HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(×¿ÊÄ8²”“•2J$ea457da5-7f22-4a98-904c-ac4faf6c0e07
+
+java:S3252/"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(ê…8²”“•2J$8346169a-6835-4f24-a267-8efb992d50f7
+”
+java:S32520"LUse static access with "org.hibernate.cfg.AvailableSettings" for "SHOW_SQL".(À¶Ïøÿÿÿÿ8µ”“•2J$5718164b-ff46-4442-91ed-58f8704c9d7e
+©
+java:S32521"aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(°Çşûÿÿÿÿ8·”“•2J$2fbc4af3-bb16-4599-9904-04bfd169e362
+’
+java:S32522"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(×°-8¹”“•2J$fbfccd18-519c-4038-a139-3ab1e7f28098
+t
+java:S19055"1Remove this unnecessary cast to "SessionFactory".(¡¦­­8Ï£æ•2J$d0ab006d-7288-4838-b992-6fe9c6e68f34
+r	java:S1068"+Replace this use of System.out by a logger.(—û¬™øÿÿÿÿ8Ò£æ•2J$ccdf6e2e-0b93-4763-b314-f83805060a52

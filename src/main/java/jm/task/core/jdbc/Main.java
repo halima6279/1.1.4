@@ -11,7 +11,7 @@ import java.sql.SQLException;
 public class Main {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         Util util = new Util();
-        util.getConnection();
+        util.getSessionFactory();
         UserService userService = new UserServiceImpl();
         userService.createUsersTable();
         userService.saveUser("Halima", "Vedzizheva", (byte) 26);
